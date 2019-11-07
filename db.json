@@ -1,4 +1,5 @@
-"cliente": [
+{
+    "cliente": [
     {
       "id": 1,
       "nome": "Joao"
@@ -8,6 +9,9 @@
       "nome": "Maria"
     },
   ],
-  "profile": {
+  "profile": [
+  {
     "name": "typicode"
   }
+  ]
+}
