@@ -2,13 +2,28 @@
   "cliente": [
     {
       "id": 1,
-      "nome": "Joao"
+      "nome": "Joao",
+      "telefone": "9999-9999",
+      "endereço": "Rua 1, BH"
     },
     {
       "id": 2,
-      "nome": "Maria"
+      "nome": "Maria",
+      "telefone": "9999-9999",
+      "endereço": "Rua 2, SP"
+    },
+    {
+      "id": 3,
+      "nome": "Rafael",
+      "telefone": "9999-9999",
+      "endereço": "Rua Tal, MG"
+    },
+    {
+      "id": 4,
+      "nome": "Tiago",
+      "telefone": "9999-9999",
+      "endereço": "Rua X, MG"
     }
-    
   ],
   "profile": {
     "name": "typicode"
