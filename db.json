@@ -1,13 +1,15 @@
 {
-  "menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
+  "cliente": [
+    {
+      "id": "1",
+      "nome": "Joao"
+    },
+    {
+      "id": "2",
+      "nome": "Maria"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
   }
-}
 }
